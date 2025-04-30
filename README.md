@@ -12,7 +12,7 @@ The repository includes five C++ programs:
 2. **Torque and Balance (torque.cpp)**  
    Models the lateral torque experienced when carrying a backpack asymmetrically and frontal torque.
 
-3. **Momentum and Impulse (momentum_impuls.cpp)**  
+3. **Momentum and Impulse (momentum_impulse.cpp)**  
    Shows how sudden stops of a heavy bag can generate large forces.
 
 4. **Pressure Distribution (pressure.cpp)**  
