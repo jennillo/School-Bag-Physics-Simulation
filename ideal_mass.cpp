@@ -9,6 +9,6 @@ int main() {
 
     ideal_mass = 0.1 * body_mass;
 
-    cout << "Ideal mass4 < " << ideal_mass << " kg\n\n";
+    cout << "Ideal mass < " << ideal_mass << " kg\n\n";
     return 0;
 }
